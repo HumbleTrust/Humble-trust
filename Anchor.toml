@@ -1,0 +1,6 @@
+[program]
+name = "humble_trust"
+devnet = true
+
+[solana]
+cluster = "devnet"
